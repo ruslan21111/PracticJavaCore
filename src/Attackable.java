@@ -1,0 +1,8 @@
+interface Attack {
+
+    int attack();
+
+}
+
+
+
